@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Komal290106
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML and Python
+- 🎓 I'm a first year CSE Student
 - 📫 How to reach me , mail id- komaldhillon59@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Love reading manhwas!
