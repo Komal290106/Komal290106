@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komal290106
-- 🌼 I’m interested in Web development
-- 🎓 I'm a first year CSE Student
+- 🌼 I’m interested in Full Stack development
+- 🎓 I'm a second year CSE Student
 - 📫 How to reach me , mail id- dhillonkomal59@gmail.com
 
 <!---
