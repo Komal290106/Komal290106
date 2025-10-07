@@ -1,5 +1,7 @@
 # Komal Kaur Dhillon
 `Komal290106` - she/her
+<img width="1408" height="736" alt="Gemini_Generated_Image_he90xkhe90xkhe90" src="https://github.com/user-attachments/assets/8df77747-b57e-4583-b163-bed468f9729f" />
+
 
 ## 2nd year CSE Student | Full Stack Developer
 
