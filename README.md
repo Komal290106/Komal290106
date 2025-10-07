@@ -1,6 +1,10 @@
 # Komal Kaur Dhillon
 `Komal290106` - she/her
 <img width="1408" height="736" alt="Gemini_Generated_Image_he90xkhe90xkhe90" src="https://github.com/user-attachments/assets/8df77747-b57e-4583-b163-bed468f9729f" />
+<p align="center">
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Komal+Kaur+Dhillon;Full+Stack+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</p>
 
 
 ## 2nd year CSE Student | Full Stack Developer
@@ -92,3 +96,5 @@ Menu and table booking platform with beautiful UI and user-friendly experience.
 *"Building the future, one line at a time"*
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=Komal290106&color=ff69b4&style=for-the-badge&label=PROFILE+VISITS)
