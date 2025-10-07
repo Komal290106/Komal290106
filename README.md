@@ -7,7 +7,7 @@
 </p>
 
 
-## 2nd year CSE Student | Web Stack Developer
+## 2nd year CSE Student | Web Developer
 
 **📍 Punjab, India**  
 📧 **Email:** drillkokomal59@gmail.com  
@@ -17,7 +17,7 @@
 
 ##  About Me
 
-Hi! I'm Komal, a passionate **Full Stack Developer** and second-year Computer Science student. I love creating beautiful, functional web applications that provide amazing user experiences.
+Hi! I'm Komal, a passionate **Web Developer** and second-year Computer Science student. I love creating beautiful, functional web applications that provide amazing user experiences.
 
 -  **Currently focused on:** Full Stack Development with MERN Stack
 -  **Learning:** Advanced React, System Design
