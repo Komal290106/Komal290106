@@ -7,7 +7,7 @@
 </p>
 
 
-## 2nd year CSE Student | Full Stack Developer
+## 2nd year CSE Student | Web Stack Developer
 
 **📍 Punjab, India**  
 📧 **Email:** drillkokomal59@gmail.com  
