@@ -83,11 +83,8 @@ I aim to design experiences that are not just functional, but also aesthetically
 
 
 
-## Currently
 
-- Learning: Advanced React, System Design  
-- Working on: Masala Tales  
-- Hobbies: UI Design, Hackathons, Pixel Art  
+
 
 ---
 
