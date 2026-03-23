@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:dhillonkomal59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/komal-kaur-dhillon-59149a330/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-gamma-ochre-fa6t9qiz53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio2-0-woad-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Komal290106"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
