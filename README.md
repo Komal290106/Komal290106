@@ -51,25 +51,7 @@ I aim to design experiences that are not just functional, but also aesthetically
 
 
 
-## Featured Projects
 
-### [Uamore - Luxury Perfume E-commerce](https://github.com/Komal290106/Uamore)
-> A luxury perfume eCommerce platform featuring a soft pastel aesthetic, smooth animations, and a focus on cruelty-free fragrances.  
-> **Tech:** TypeScript, React, TailwindCSS  
-
----
-
-### [Portfolio Website](https://github.com/Komal290106/Portfolio)
-> A clean and modern portfolio site highlighting projects, skills, and design sense.  
-> **Tech:** React, TypeScript  
-
----
-
-### [Masala Tales](https://github.com/Komal290106/masala_tales)
-> A restaurant menu and table booking app emphasizing usability and elegant interface design.  
-> **Tech:** React, TypeScript  
-
----
 
 ## GitHub Insights
 
