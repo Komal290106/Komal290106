@@ -83,9 +83,13 @@ const komal = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Komal290106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E5B8FF&icon_color=C084FC&text_color=ffffff&cache_seconds=1800&rank_icon=github" height="165" alt="GitHub Stats"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Komal290106&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<br/> -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Komal290106&theme=tokyonight" height="165" alt="Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal290106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E5B8FF&text_color=ffffff&cache_seconds=1800&langs_count=6" height="165" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Komal290106&theme=tokyonight" height="165" alt="Languages"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal290106&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E5B8FF&currStreakLabel=E5B8FF" width="60%" alt="GitHub Streak"/>
