@@ -1,42 +1,42 @@
 <div align="center">
 
-# Hey there, I'm Komal 👋
+# Hey there, I'm Komal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E5B8FF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;UI%2FUX+Passionate+Designer+%F0%9F%8E%A8;Building+elegant+%26+scalable+apps+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E5B8FF&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Enthusiast;UI%2FUX+Passionate+Designer;Building+elegant+%26+scalable+apps" alt="Typing SVG" />
 
 </div>
 
 ---
 
+<img src="https://img.shields.io/badge/-About%20Me-2B2140?style=for-the-badge"/>
+
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="58%">
 
-### 🌸 About Me
-
-I'm **Komal Kaur Dhillon**, a **2nd-year CS student** at Chitkara University and a **Web Developer** who loves crafting clean, responsive, and aesthetically refined web experiences.
+I'm **Komal Kaur Dhillon**, a **3rd-year CSE student** at Chitkara University and a **Web Developer** who loves crafting clean, responsive, and aesthetically refined web experiences.
 
 ```javascript
 const komal = {
   pronouns: "she/her",
-  location: "Punjab, India 🇮🇳",
+  location: "Punjab, India",
   currently: ["Advanced React", "System Design"],
   focused: "Full Stack MERN Development",
   goal: "Build scalable products with elegant UX",
-  funFact: "I debug with coffee ☕ and lo-fi 🎵"
+  funFact: "I debug with coffee and lo-fi"
 };
 ```
 
 </td>
-<td valign="top" width="40%">
-<img src="https://github.com/user-attachments/assets/8df77747-b57e-4583-b163-bed468f9729f" width="100%" alt="Komal's banner"/>
+<td align="center" valign="middle" width="42%">
+<img src="https://github.com/user-attachments/assets/8df77747-b57e-4583-b163-bed468f9729f" width="90%" alt="Komal's banner"/>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🔗 Connect With Me
+<img src="https://img.shields.io/badge/-Connect%20With%20Me-2B2140?style=for-the-badge"/>
 
 <p align="center">
   <a href="mailto:dhillonkomal59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -47,7 +47,7 @@ const komal = {
 
 ---
 
-### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/-Tech%20Stack-2B2140?style=for-the-badge"/>
 
 **Frontend**
 
@@ -75,17 +75,13 @@ const komal = {
 
 ---
 
-### 📊 GitHub Insights
+<img src="https://img.shields.io/badge/-GitHub%20Insights-2B2140?style=for-the-badge"/>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Komal290106&theme=tokyo-night&hide_border=true&area=true&color=E5B8FF&line=C084FC&point=ffffff" width="100%" alt="Contribution Graph"/>
 
 <br/>
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Komal290106&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-<br/> -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Komal290106&theme=tokyonight" height="165" alt="Stats"/>
 &nbsp;
@@ -98,25 +94,16 @@ const komal = {
 
 ---
 
-### 🏆 GitHub Trophies
+<img src="https://img.shields.io/badge/-Currently%20Working%20On-2B2140?style=for-the-badge"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Komal290106&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
-</div>
-
----
-
-### 🌱 Currently Working On
-
-> ☀️ **100 Days of Solana** — Learning Web3 & blockchain development daily  
-> 🧠 **Google Prompt Wars** — Competing & sharpening AI prompting skills  
-> 🎨 **Portfolio v3** — Redesigning my portfolio with a fresh new look  
+- **Elite Coders Summer of Code (ECSOC'26)** — Contributing to open source
+- **Portfolio v3** — Redesigning my portfolio with a fresh new look
 
 ---
 
 <div align="center">
 
-### Code • Design • Build
+### Code · Design · Build
 
 *"Building the future, one line at a time."*
 
