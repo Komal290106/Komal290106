@@ -88,7 +88,7 @@ const komal = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Komal290106&theme=tokyonight" height="165" alt="Languages"/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal290106&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E5B8FF&currStreakLabel=E5B8FF" width="60%" alt="GitHub Streak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal290106&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E5B8FF&currStreakLabel=E5B8FF" width="60%" alt="GitHub Streak"/> -->
 
 </div>
 
