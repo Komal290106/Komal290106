@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 <img src="https://img.shields.io/badge/-About%20Me-2B2140?style=for-the-badge"/>
 
@@ -22,8 +22,7 @@ const komal = {
   location: "Punjab, India",
   currently: ["Advanced React", "System Design"],
   focused: "Full Stack MERN Development",
-  goal: "Build scalable products with elegant UX",
-  funFact: "I debug with coffee and lo-fi"
+  goal: "Build scalable products with elegant UX"
 };
 ```
 
@@ -74,21 +73,19 @@ const komal = {
 ![Spline](https://img.shields.io/badge/Spline-FF6B6B?style=for-the-badge&logoColor=white)
 
 ---
-
-<img src="https://img.shields.io/badge/-GitHub%20Insights-2B2140?style=for-the-badge"/>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Komal290106&theme=tokyo-night&hide_border=true&area=true&color=E5B8FF&line=C084FC&point=ffffff" width="100%" alt="Contribution Graph"/>
+<img src="https://github.pumbas.net/api/contributions/Komal290106?colour=C084FC&bgColour=0D1117" width="100%" alt="GitHub Contributions"/>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Komal290106&theme=tokyonight" height="165" alt="Stats"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Komal290106&theme=tokyonight" height="165" alt="Languages"/>
+
 <br/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal290106&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E5B8FF&currStreakLabel=E5B8FF" width="60%" alt="GitHub Streak"/> -->
+<img src="https://streak-stats.demolab.com/?user=Komal290106&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E5B8FF&currStreakLabel=E5B8FF" width="60%" alt="GitHub Streak"/>
 
 </div>
 
@@ -96,7 +93,7 @@ const komal = {
 
 <img src="https://img.shields.io/badge/-Currently%20Working%20On-2B2140?style=for-the-badge"/>
 
-- **Elite Coders Summer of Code (ECSOC'26)** — Contributing to open source
+- **Open Source Connect (OSC'26)** — Contributing to open source
 - **Portfolio v3** — Redesigning my portfolio with a fresh new look
 
 ---
