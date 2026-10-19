@@ -16,7 +16,7 @@
 
 I'm **Komal Kaur Dhillon**, a Computer Science student at Chitkara University who enjoys turning ideas into polished digital experiences.
 
-I love the intersection of **development and design** — building interfaces that aren't just functional, but thoughtful, interactive, and visually refined.
+I love the intersection of **development and design** - building interfaces that aren't just functional, but thoughtful, interactive, and visually refined.
 
 From contributing to open source to building projects and participating in hackathons, I'm always looking for opportunities to learn by creating.
 
