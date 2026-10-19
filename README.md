@@ -30,6 +30,9 @@ const komal = {
   goal: "Build scalable products with elegant UX"
 };
 ```
+
+<img src="sleeping-cat.svg" width="220" alt="Sleeping fluffy cat" />
+
 </td>
 <td align="center" valign="middle" width="40%">
 
