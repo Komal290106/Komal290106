@@ -18,7 +18,8 @@ I'm Komal Kaur Dhillon, a Computer Science student at Chitkara University who en
 
 I love the intersection of development and design, building interfaces that are thoughtful, interactive, and visually refined.
 
-```const komal = {
+```
+const komal = {
   pronouns: "she/her",
   location: "Punjab, India",
   currently: ["Advanced React", "System Design"],
