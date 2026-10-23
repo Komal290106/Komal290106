@@ -12,14 +12,13 @@
 
 <table>
 <tr>
-<td valign="bottom" width="62%">
+<td valign="middle" width="72%">
 
-I'm **Komal Kaur Dhillon**, a Computer Science student at Chitkara University who enjoys turning ideas into polished digital experiences.
+I'm Komal Kaur Dhillon, a Computer Science student at Chitkara University who enjoys turning ideas into polished digital experiences.
 
-I love the intersection of **development and design**, building interfaces that are thoughtful, interactive, and visually refined.
+I love the intersection of development and design, building interfaces that are thoughtful, interactive, and visually refined.
 
-```javascript
-const komal = {
+```const komal = {
   pronouns: "she/her",
   location: "Punjab, India",
   currently: ["Advanced React", "System Design"],
@@ -28,12 +27,13 @@ const komal = {
   goal: "Build scalable products with elegant UX"
 };
 ```
-<img src="sleeping-cat.svg" width="170" alt="Sleeping cat" />
+
+<img src="sleeping-cat.svg" width="140" alt="Sleeping cat" />
 
 </td>
-<td align="center" valign="middle" width="38%">
+<td align="center" valign="middle" width="28%">
 
-<img src="https://github.com/user-attachments/assets/732e3806-102e-4baf-ae9d-4dde32238535" width="160" alt="Komal's character design" />
+<img src="https://github.com/user-attachments/assets/ab9236ce-78ad-4c30-92df-a6bb9701c230" width="200" alt="Komal's character design" />
 
 </td>
 </tr>
